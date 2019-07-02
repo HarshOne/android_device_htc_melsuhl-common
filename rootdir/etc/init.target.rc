@@ -1,0 +1,7 @@
+import init.variant.rc
+
+## Service start here
+    class main
+    user system
+    group system
+    oneshot
